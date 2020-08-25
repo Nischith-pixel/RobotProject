@@ -24,6 +24,10 @@ MyFourthTest
     Log    This is my fourth test..
     Set Tags    Functional
     
+MyFifthTest
+    Log    This is my fifth test..
+    # To commit and check in Git
+    
 # SeleniumSampleTest
     # [Documentation]                    This is a sample selenium test
     # Open Browser                       @{Credentials}[0]                @{Credentials}[1]
